@@ -63,4 +63,4 @@ Enter y for yes or n for no
 I would love to hear your feedback! Feel free to open an issue or contribute to improving the game.
 
 ---
-Made with ❤️ by Jay.
+Made with ❤️ by HARSHWARDHAN YADAV.
